@@ -31,6 +31,7 @@
 | [0008-string-to-integer-atoi](https://github.com/khemrajr10/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/khemrajr10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/khemrajr10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khemrajr10/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 | ------- |
 | [0015-3sum](https://github.com/khemrajr10/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khemrajr10/LeetCode/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
