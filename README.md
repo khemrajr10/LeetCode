@@ -22,6 +22,7 @@
 | [0007-reverse-integer](https://github.com/khemrajr10/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khemrajr10/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
