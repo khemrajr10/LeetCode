@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/khemrajr10/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khemrajr10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
