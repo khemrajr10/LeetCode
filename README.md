@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/khemrajr10/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/khemrajr10/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
