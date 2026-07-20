@@ -13,11 +13,13 @@
 | [0031-next-permutation](https://github.com/khemrajr10/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khemrajr10/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khemrajr10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0031-next-permutation](https://github.com/khemrajr10/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0015-3sum](https://github.com/khemrajr10/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khemrajr10/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +112,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Memoization
 |  |
 | ------- |
