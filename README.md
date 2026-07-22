@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khemrajr10/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/khemrajr10/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/khemrajr10/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khemrajr10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
