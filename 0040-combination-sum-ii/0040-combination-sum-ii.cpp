@@ -13,11 +13,11 @@ public:
 
         for(int i = start; i < nums.size(); i++) {
 
-            // Skip duplicate values at the same recursion level
+            
             if(i > start && nums[i] == nums[i - 1])
                 continue;
 
-            // Prune because array is sorted
+            
             if(nums[i] > target)
                 break;
 
