@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/khemrajr10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/khemrajr10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/khemrajr10/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -42,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/khemrajr10/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khemrajr10/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/khemrajr10/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
 ## Divide and Conquer
 |  |
 | ------- |
