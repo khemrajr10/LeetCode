@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/khemrajr10/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khemrajr10/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/khemrajr10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/khemrajr10/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khemrajr10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
