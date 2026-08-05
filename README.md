@@ -80,6 +80,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/khemrajr10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/khemrajr10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/khemrajr10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -87,6 +88,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/khemrajr10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/khemrajr10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/khemrajr10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
