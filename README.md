@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -65,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khemrajr10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -144,6 +146,7 @@
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
