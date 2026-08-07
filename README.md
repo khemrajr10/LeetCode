@@ -40,6 +40,7 @@
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
