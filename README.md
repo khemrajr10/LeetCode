@@ -40,6 +40,7 @@
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -69,6 +70,7 @@
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
@@ -193,4 +195,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
