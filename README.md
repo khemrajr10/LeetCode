@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/khemrajr10/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -53,6 +55,7 @@
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0029-divide-two-integers](https://github.com/khemrajr10/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +155,7 @@
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
@@ -165,6 +170,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khemrajr10/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Memoization
 |  |
