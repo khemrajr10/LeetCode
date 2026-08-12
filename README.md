@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/khemrajr10/LeetCode/tree/master/0414-third-maximum-number) |
+| [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Sorting
 |  |
 | ------- |
