@@ -76,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khemrajr10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/khemrajr10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +119,7 @@
 | [0031-next-permutation](https://github.com/khemrajr10/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/khemrajr10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/khemrajr10/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
