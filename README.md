@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/khemrajr10/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/khemrajr10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -143,6 +144,7 @@
 | [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khemrajr10/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/khemrajr10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
