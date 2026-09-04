@@ -248,4 +248,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khemrajr10/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
