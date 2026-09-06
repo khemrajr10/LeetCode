@@ -5,7 +5,7 @@ public:
 
         while (columnNumber > 0) {
         
-            columnNumber--;\
+            columnNumber--;
 
             
             ans += 'A' + (columnNumber % 26);
