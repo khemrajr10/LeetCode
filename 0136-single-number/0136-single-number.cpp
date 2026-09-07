@@ -3,18 +3,15 @@ public:
     int singleNumber(vector<int>& nums) {
         int n= nums.size();
 
+        unordered_map<int,int>freq;
+
         for(int i=0; i<n; i++){
-            int count =0;
-            int num = nums[i];
+            freq[nums[i]]++;
+        }
 
-            for(int j=0; j<n; j++){
-                if(nums[j] == num){
-                    count++;
-                }
-            }
-
-            if(count == 1){
-                return num;
+        for(auto it: freq){
+            if(it.second == 1){
+                return it.first;
             }
         }
 
