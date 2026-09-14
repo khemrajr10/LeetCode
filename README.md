@@ -30,6 +30,7 @@
 | [0118-pascals-triangle](https://github.com/khemrajr10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khemrajr10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/khemrajr10/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/khemrajr10/LeetCode/tree/master/0228-summary-ranges) |
@@ -51,6 +52,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khemrajr10/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khemrajr10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khemrajr10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +250,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
@@ -260,4 +265,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
