@@ -21,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/khemrajr10/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/khemrajr10/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/khemrajr10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/khemrajr10/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/khemrajr10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
@@ -159,6 +160,7 @@
 | [0005-longest-palindromic-substring](https://github.com/khemrajr10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/khemrajr10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/khemrajr10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/khemrajr10/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khemrajr10/LeetCode/tree/master/0118-pascals-triangle) |
@@ -225,6 +227,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khemrajr10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/khemrajr10/LeetCode/tree/master/0169-majority-element) |
 ## Tree
