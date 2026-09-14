@@ -1,8 +1,9 @@
+// better approach - Hashing 
 // class Solution {
 // public:
 //     int majorityElement(vector<int>& nums) {
 //         int n = nums.size();
-//         unordered_map<int, int> mp;
+//         map<int, int> mp;
 
 //         for(int num : nums) {
 //             mp[num]++;
@@ -19,6 +20,8 @@
 // };
 
 
+
+//optimal approach - Moore's voting algorithm
 
 class Solution {
 public:
@@ -39,6 +42,14 @@ public:
 
             
         }
-        return element;
+        int count1=0;
+        for(int i=0; i<n; i++){
+            if(nums[i] == element) count1++;
+        }
+        if(count1 >n/2){
+            return element;
+        }
+         return -1;
     }
+   
 };
