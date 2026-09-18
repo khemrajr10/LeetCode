@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khemrajr10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khemrajr10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/khemrajr10/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/khemrajr10/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khemrajr10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
