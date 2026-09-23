@@ -42,6 +42,7 @@ public:
 
             
         }
+        // when it is not metioned that majority element will alwz exits you have to checm the frequency of the element separtely 
         int count1=0;
         for(int i=0; i<n; i++){
             if(nums[i] == element) count1++;
