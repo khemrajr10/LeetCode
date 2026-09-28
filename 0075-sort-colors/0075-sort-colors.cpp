@@ -28,21 +28,53 @@
 
 
 
+// class Solution {
+// public:
+//     void sortColors(vector<int>& nums) {
+
+//        int n = nums.size();
+
+//       for(int i=0; i<n-1; i++){
+//         for(int j=i+1; j<n; j++){
+//             if(nums[i] == nums[j]){
+//                 swap(nums[i+1],nums[j]);
+//             }else if(nums[i]>nums[j]){
+//                 swap(nums[i],nums[j]);
+//             }
+//         }
+//       }
+    
+//     }
+// };
+
+
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
 
-       int n = nums.size();
+      int n = nums.size();
+        int j=0;
+        int k=0;
 
-      for(int i=0; i<n-1; i++){
-        for(int j=i+1; j<n; j++){
-            if(nums[i] == nums[j]){
-                swap(nums[i+1],nums[j]);
-            }else if(nums[i]>nums[j]){
+        for(int i = 0; i<=n-1;i++)
+        {
+            if(nums[i] == 0)
+            {
                 swap(nums[i],nums[j]);
+                j++;
             }
         }
-      }
-    
+
+        k=j;
+
+        for(int i = j; i<=n-1;i++)
+        {
+            if(nums[i] == 1)
+            {
+                swap(nums[i],nums[k]);
+                k++;
+            }
+        }
     }
 };
