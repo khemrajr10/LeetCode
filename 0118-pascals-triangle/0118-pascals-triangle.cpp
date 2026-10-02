@@ -18,7 +18,7 @@
 // };
 
 
-
+// triangle is 1 -indexed and vector start from 0 index therefore int value = ans[i-2][j-2] + ans[i-2][j-1];
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
