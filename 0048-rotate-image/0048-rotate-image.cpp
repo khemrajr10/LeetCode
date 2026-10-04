@@ -53,16 +53,13 @@ public:
         for(int i=0; i<n; i++){
             int a=0;
             int b= m-1;
-            for(int j=0;  j<m; j++){
-                if(a<=b){
-                    swap(matrix[i][a],matrix[i][b]);
-                    a++;
-                    b--;
-                }else{
-                    break;
-                }
-                
+            while(a<b){
+                swap(matrix[i][a],matrix[i][b]);
+                a++;
+                b--;
             }
+                
+            
         }
 
 
