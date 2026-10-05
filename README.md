@@ -49,6 +49,7 @@
 | [0414-third-maximum-number](https://github.com/khemrajr10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khemrajr10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khemrajr10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/khemrajr10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/khemrajr10/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khemrajr10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -247,6 +249,7 @@
 | [0054-spiral-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/khemrajr10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/khemrajr10/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
