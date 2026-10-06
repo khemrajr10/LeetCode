@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/khemrajr10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/khemrajr10/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/khemrajr10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/khemrajr10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/khemrajr10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khemrajr10/LeetCode/tree/master/0075-sort-colors) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/khemrajr10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/khemrajr10/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/khemrajr10/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -247,6 +249,7 @@
 | [0036-valid-sudoku](https://github.com/khemrajr10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/khemrajr10/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/khemrajr10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/khemrajr10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/khemrajr10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
