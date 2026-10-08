@@ -6,13 +6,17 @@ public:
         int end = n-1;
         
         while(start <= end){
-            if(nums[start] > nums[end]){
-                start++;
-            }else{
-                return nums[start];
+            int mid = start + (end-start)/2;
 
+            if(nums[end] == nums[mid]){
+                return nums[mid];
+            }
+            else if(nums[mid] > nums[end]){
+                start = mid +1;
+            }else{
+                end = mid;
             }
         }
-        return 0 ;
+        return 0;
     }
 };
