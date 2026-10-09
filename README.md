@@ -51,6 +51,7 @@
 | [0414-third-maximum-number](https://github.com/khemrajr10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khemrajr10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khemrajr10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/khemrajr10/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/khemrajr10/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/khemrajr10/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0905-sort-array-by-parity](https://github.com/khemrajr10/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -243,6 +244,7 @@
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khemrajr10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/khemrajr10/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
