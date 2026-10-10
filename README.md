@@ -95,6 +95,7 @@
 | [0168-excel-sheet-column-title](https://github.com/khemrajr10/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/khemrajr10/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/khemrajr10/LeetCode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khemrajr10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/khemrajr10/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/khemrajr10/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Memoization
 |  |
