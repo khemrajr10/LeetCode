@@ -2,20 +2,15 @@ class Solution {
 public:
     void reverseString(vector<char>& s) {
 
-        int size = s.size();
+        int n = s.size();
+        int st = 0;
+        int e = n-1;
 
-        int start = 0;
-        int end = size - 1;
-
-        while(start < end){
-            swap( s[start], s[end]);
-            start++;
-            end--;
+        while( st<e){
+            swap( s[st] ,s[e]);
+            st++;
+            e--;
         }
-
-        for (int i=0; i<size; i++){
-            cout << s[i] << " ";
-        }
-        
+      
     }
 };
