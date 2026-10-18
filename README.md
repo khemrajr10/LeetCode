@@ -121,6 +121,7 @@
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
