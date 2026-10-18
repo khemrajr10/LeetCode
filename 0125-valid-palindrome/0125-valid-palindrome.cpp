@@ -1,33 +1,63 @@
+// class Solution {
+// public:
+//     bool isPalindrome(string s) {
+//         int n = s.length();
+//         string ans = "";
+
+//         for(int i=0; i<n; i++){
+//            if(s[i] >='a' && s[i] <='z' ||
+//               s[i]>='A' && s[i] <='Z'||
+//               s[i] >= '0' && s[i] <= '9') {
+//                   ans += tolower(s[i]);
+//             }
+//         }
+        
+//         string revAns = ans;
+//         int st=0;
+//         int e = revAns.length()-1;
+
+//         while(st < e){
+//             swap(revAns[st],revAns[e]);
+//             st++;
+//             e--;
+//         }
+
+//         if(ans == revAns || s == ""){
+//             return true;
+//         }else{
+//             return false;
+//         }
+    
+        
+//     }
+// };
+
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n = s.length();
-        string ans = "";
+        int left = 0;
+        int right = s.size() - 1;
 
-        for(int i=0; i<n; i++){
-           if(s[i] >='a' && s[i] <='z' ||
-              s[i]>='A' && s[i] <='Z'||
-              s[i] >= '0' && s[i] <= '9') {
-                  ans += tolower(s[i]);
+        while (left < right) {
+
+            // Skip non-alphanumeric characters
+            while (left < right && !isalnum(s[left])) {
+                left++;
             }
-        }
-        
-        string revAns = ans;
-        int st=0;
-        int e = revAns.length()-1;
 
-        while(st < e){
-            swap(revAns[st],revAns[e]);
-            st++;
-            e--;
+            while (left < right && !isalnum(s[right])) {
+                right--;
+            }
+
+            // Compare after converting to lowercase
+            if (tolower(s[left]) != tolower(s[right])) {
+                return false;
+            }
+
+            left++;
+            right--;
         }
 
-        if(ans == revAns || s == ""){
-            return true;
-        }else{
-            return false;
-        }
-    
-        
+        return true;
     }
 };
