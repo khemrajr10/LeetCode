@@ -82,6 +82,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khemrajr10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/khemrajr10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/khemrajr10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -120,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/khemrajr10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/khemrajr10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/khemrajr10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khemrajr10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -173,6 +175,7 @@
 | [0344-reverse-string](https://github.com/khemrajr10/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/khemrajr10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khemrajr10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/khemrajr10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/khemrajr10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khemrajr10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
@@ -184,6 +187,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khemrajr10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/khemrajr10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/khemrajr10/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
