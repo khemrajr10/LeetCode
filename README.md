@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/khemrajr10/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/khemrajr10/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/khemrajr10/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1903-largest-odd-number-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0771-jewels-and-stones](https://github.com/khemrajr10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khemrajr10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/khemrajr10/LeetCode/tree/master/0045-jump-game-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
