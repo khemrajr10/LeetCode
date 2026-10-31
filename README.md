@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -301,6 +302,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -309,6 +311,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
@@ -358,4 +361,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/khemrajr10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
