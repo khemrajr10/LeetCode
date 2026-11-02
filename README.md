@@ -303,6 +303,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/khemrajr10/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/khemrajr10/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khemrajr10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
@@ -365,4 +367,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khemrajr10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/khemrajr10/LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/khemrajr10/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
