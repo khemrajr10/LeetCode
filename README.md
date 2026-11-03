@@ -131,6 +131,7 @@
 | [0796-rotate-string](https://github.com/khemrajr10/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khemrajr10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -145,6 +146,7 @@
 | [0234-palindrome-linked-list](https://github.com/khemrajr10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khemrajr10/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khemrajr10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -343,6 +345,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khemrajr10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
